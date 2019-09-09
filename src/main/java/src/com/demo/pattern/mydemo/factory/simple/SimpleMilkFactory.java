@@ -1,9 +1,10 @@
 package src.com.demo.pattern.mydemo.factory.simple;
 
-import com.demo.pattern.mydemo.factory.DefaultMilk;
-import com.demo.pattern.mydemo.factory.MengNiuMilk;
-import com.demo.pattern.mydemo.factory.Milk;
-import com.demo.pattern.mydemo.factory.YiLiMilk;
+
+import src.com.demo.pattern.mydemo.factory.DefaultMilk;
+import src.com.demo.pattern.mydemo.factory.MengNiuMilk;
+import src.com.demo.pattern.mydemo.factory.Milk;
+import src.com.demo.pattern.mydemo.factory.YiLiMilk;
 
 /**
  * @author fengww

@@ -1,7 +1,8 @@
 package src.com.demo.pattern.mydemo.factory.constructor;
 
-import com.demo.pattern.mydemo.factory.Milk;
-import com.demo.pattern.mydemo.factory.fun.MengNiuMilkFactory;
+
+import src.com.demo.pattern.mydemo.factory.Milk;
+import src.com.demo.pattern.mydemo.factory.fun.MengNiuMilkFactory;
 
 /**
  * @author fengww

@@ -1,8 +1,8 @@
 package src.com.demo.pattern.mydemo.optional;
 
-import com.demo.pattern.mydemo.factory.MengNiuMilk;
 
-import java.util.Optional;
+import src.com.demo.pattern.mydemo.factory.MengNiuMilk;
+
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 

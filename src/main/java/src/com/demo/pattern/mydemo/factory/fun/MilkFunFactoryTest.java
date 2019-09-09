@@ -1,6 +1,6 @@
 package src.com.demo.pattern.mydemo.factory.fun;
 
-import com.demo.pattern.mydemo.factory.Milk;
+import src.com.demo.pattern.mydemo.factory.Milk;
 
 /**
  * @author fengww

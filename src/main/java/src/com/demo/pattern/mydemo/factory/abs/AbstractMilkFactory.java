@@ -1,6 +1,7 @@
 package src.com.demo.pattern.mydemo.factory.abs;
 
-import com.demo.pattern.mydemo.factory.Milk;
+
+import src.com.demo.pattern.mydemo.factory.Milk;
 
 /**
  * @author fengww

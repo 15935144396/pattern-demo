@@ -1,6 +1,7 @@
 package src.com.demo.pattern.mydemo.single;
 
-import com.demo.pattern.mydemo.single.lazy.LazyConfigOne;
+
+import src.com.demo.pattern.mydemo.single.lazy.LazyConfigOne;
 
 import java.util.concurrent.CountDownLatch;
 
